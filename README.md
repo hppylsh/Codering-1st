@@ -54,6 +54,7 @@
 # About Team
 - [전훈의](https://github.com/Hunui) 팀장
   - 프로젝트 총괄
+  - 질문게시판
 - [김정규](https://github.com/kimjungkyu93)
   - 회원가입/로그인
   - 튜터링 참여
