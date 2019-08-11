@@ -85,7 +85,7 @@ https://docs.google.com/spreadsheets/d/1_x7bVlG-bFpQIDc5y7y_WL2lf0ePQBBT_7ZP2i1f
   - 2019.06.14 ~ 2019.07.03
     - 화면 설계 및 시나리오 스토리보드 작성
     - 데이터베이스 설계
-	  - 뷰페이지 생성
+    - 뷰페이지 생성
 - 개발
   - 2019.06.29 ~ 2019.07.18
 	  - 환경 세팅
